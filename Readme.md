@@ -1,0 +1,1 @@
+* This model uses Back Propagation algorithm to predict whether the input attributes are of a .mp3 file or a .mp4 file
